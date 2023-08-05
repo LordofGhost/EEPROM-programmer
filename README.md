@@ -1,7 +1,10 @@
 # Arduino Nano EEPROM programmer for 28c256
 
+    ![EEPROM-PROGRAMMER](/images/EEPROM-programmer)
+    *my selfmade EEPROM programmer*
+
 <figure>
-    <img src="/images/EEPROM-programmer"
+    <img src="/images/EEPROM-PROGRAMMER"
          alt="EEPROM-PROGRAMMER">
     <figcaption>my selfmade EEPROM programmer</figcaption>
 </figure>
