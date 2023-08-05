@@ -1,10 +1,11 @@
-# Arduino EEPROM programmer for 28c256
+# Arduino Nano EEPROM programmer for 28c256
 
-## schwierigkeiten
-- Disable SDP
+    ![EEPROM-PROGRAMMER](/images/EEPROM-programmer)
+    *my selfmade EEPROM programmer*
 
-## lösungen
+---
+
 
 
 ## Credits
-The schematics for the eeprom programmer can be found here https://github.com/beneater/eeprom-programmer/tree/master
+This EEPROM programmer was developed by Ben Eater and all files can be found in his repository.
