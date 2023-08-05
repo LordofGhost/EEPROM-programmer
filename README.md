@@ -3,7 +3,7 @@
 <figure>
     <img src="/images/EEPROM-PROGRAMMER.jpg"
          alt="EEPROM-PROGRAMMER">
-    <figcaption>**my selfmade EEPROM programmer**</figcaption>
+    <figcaption><b>my selfmade EEPROM programmer<b></figcaption>
 </figure>
 
 ## The process
